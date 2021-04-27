@@ -90,6 +90,7 @@
 					var $section = $(id);
 					
 					// No section for this link? Bail.
+
 						if ($section.length < 1)
 							return;
 
@@ -115,6 +116,7 @@
 										$nav_a.removeClass('active');
 										$this.addClass('active');
 
+
 									}
 
 								// Otherwise, if this section's link is the one that's locked, unlock it.
@@ -124,7 +126,9 @@
 							}
 						});
 
+
 				});
+
 
 		// Title Bar.
 			$titleBar = $(
