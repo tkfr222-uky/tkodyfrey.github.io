@@ -79,16 +79,18 @@
 
 				})
 				.each(function() {
-
+					
 					var	$this = $(this),
 					id = $this.attr('href');
 					
-					// Check to see if internal link by checking to see if the first character in the link is a hash. If not we know it is an external link and no need for scrolly.
+					// Check to see if internal link by checking to see if the first character in the link is a hash. If not, we know it is an external link, and no need for Scrolly
 					if (id.charAt(0) != '#')
 						return;
+						
 					var $section = $(id);
+					
+					// No section for this link? Bail.
 
-				//	// No section for this link? Bail.
 						if ($section.length < 1)
 							return;
 
@@ -114,7 +116,8 @@
 										$nav_a.removeClass('active');
 										$this.addClass('active');
 
-								}
+
+									}
 
 								// Otherwise, if this section's link is the one that's locked, unlock it.
 									else if ($this.hasClass('active-locked'))
@@ -123,7 +126,9 @@
 							}
 						});
 
-				 });
+
+				});
+
 
 		// Title Bar.
 			$titleBar = $(
