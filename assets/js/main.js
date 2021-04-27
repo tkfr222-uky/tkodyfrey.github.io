@@ -78,48 +78,52 @@
 							.addClass('active-locked');
 
 				})
-				// .each(function() {
+				.each(function() {
 
-				// 	var	$this = $(this),
-				// 		id = $this.attr('href'),
-				// 		$section = $(id);
+					var	$this = $(this),
+					id = $this.attr('href');
+					
+					// Check to see if internal link by checking to see if the first character in the link is a hash. If not we know it is an external link and no need for scrolly.
+					if (id.charAt(0) != '#')
+						return;
+					var $section = $(id);
 
-				// 	// No section for this link? Bail.
-				// 		if ($section.length < 1)
-				// 			return;
+				//	// No section for this link? Bail.
+						if ($section.length < 1)
+							return;
 
-				// 	// Scrollex.
-				// 		$section.scrollex({
-				// 			mode: 'middle',
-				// 			top: '5vh',
-				// 			bottom: '5vh',
-				// 			initialize: function() {
+					// Scrollex.
+						$section.scrollex({
+							mode: 'middle',
+							top: '5vh',
+							bottom: '5vh',
+							initialize: function() {
 
-				// 				// Deactivate section.
-				// 					$section.addClass('inactive');
+								// Deactivate section.
+									$section.addClass('inactive');
 
-				// 			},
-				// 			enter: function() {
+							},
+							enter: function() {
 
-				// 				// Activate section.
-				// 					$section.removeClass('inactive');
+								// Activate section.
+									$section.removeClass('inactive');
 
-				// 				// No locked links? Deactivate all links and activate this section's one.
-				// 					if ($nav_a.filter('.active-locked').length == 0) {
+								// No locked links? Deactivate all links and activate this section's one.
+									if ($nav_a.filter('.active-locked').length == 0) {
 
-				// 						$nav_a.removeClass('active');
-				// 						$this.addClass('active');
+										$nav_a.removeClass('active');
+										$this.addClass('active');
 
-				// 					}
+								}
 
-				// 				// Otherwise, if this section's link is the one that's locked, unlock it.
-				// 					else if ($this.hasClass('active-locked'))
-				// 						$this.removeClass('active-locked');
+								// Otherwise, if this section's link is the one that's locked, unlock it.
+									else if ($this.hasClass('active-locked'))
+										$this.removeClass('active-locked');
 
-				// 			}
-				// 		});
+							}
+						});
 
-				// });
+				 });
 
 		// Title Bar.
 			$titleBar = $(
