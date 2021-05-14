@@ -1,0 +1,3103 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.jstor.org/stable/1585867">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0380-2361"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klinger</foaf:surname>
+                        <foaf:givenName>Don A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Hierarchical Linear Modelling of Student and School Effects on Academic Achievement</dc:title>
+        <dcterms:abstract>Hierarchical linear modelling (HLM) and data from the New Brunswick School Climate Study were used to examine student background, school context, and school climate effects on Grade 6 student achievement in mathematics, science, reading, and writing. Gender, socioeconomic status (SES), and Native ethnicity were significant predictors of academic achievement. Schools showed the smallest variation in reading, the largest in mathematics. School mean SES was significant in mathematics, reading, and writing achievement, as was disciplinary climate in mathematics, science, and writing. School size and parental involvement significantly affected only the relationship between mathematics achievement and individual SES. /// La modélisation linéaire hiérarchique et les données provenant d'une étude portant sur le climat scolaire au Nouveau-Brunswick (&quot;New Brunswick School Climate Study&quot;) furent utilisées pour analyser les acquis des élèves, le contexte scolaire et les effets du climat scolaire sur le rendement d'élèves de 6e année en mathématique, en sciences, en lecture et en écriture. Le sexe, la situation socio-économique (SSE) et l'origine autochtone étaient des prédicteurs importants du rendement scolaire. Les écoles affichent les plus faibles variations en lecture et les plus fortes, en mathématique. La SSE moyenne de l'école était un facteur important dans le rendement en mathématique, en lecture et en écriture, tout comme le climat disciplinaire pour la mathématique, les sciences et l'écriture. La taille de l'école et la participation des parents n'avaient une incidence importante que sur le rapport entre le rendement en mathématique et la SSE personnelle.</dcterms:abstract>
+        <dc:date>2000</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/1585867</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 00:50:18</dcterms:dateSubmitted>
+        <dc:description>Number: 1
+Publisher: Canadian Society for the Study of Education</dc:description>
+        <bib:pages>41-55</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0380-2361">
+        <prism:volume>25</prism:volume>
+        <dc:title>Canadian Journal of Education / Revue canadienne de l'éducation</dc:title>
+        <dc:identifier>DOI 10.2307/1585867</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0380-2361</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>39</prism:volume>
+                <dc:title>Journal of Management</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1177%2F0149206313478188</dc:identifier>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aguinis</foaf:surname>
+                        <foaf:givenName>Herman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gottfredson</foaf:surname>
+                        <foaf:givenName>Ryan K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Culpepper</foaf:surname>
+                        <foaf:givenName>Steven Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>Best-practice recommendations for estimating cross-level interaction effects using multilevel modeling</dc:title>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>1490–1528</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/Aguinis et al. - 2013 - Best-practice recommendations for estimating cross.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1011.218&amp;rep=rep1&amp;type=pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 00:59:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/0149206313478188.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.1177/0149206313478188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:00:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Journal of Official Statistics</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cohen</foaf:surname>
+                        <foaf:givenName>Michael P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Determining Sample Sizes for Surveys with Data Analyzed by Hierarchical Linear Models</dc:title>
+        <dc:date>1998</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>267–275</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/Cohen - 1998 - Determining Sample Sizes for Surveys with Data Ana.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scb.se/contentassets/ff271eeeca694f47ae99b942de61df83/determining-sample-sizes-for-surveys-with-data-analyzed-by-hierarchical-linear-models.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:01:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_15">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>79</prism:volume>
+                <dc:title>Review of Educational Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3102%2F0034654308325581</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dedrick</foaf:surname>
+                        <foaf:givenName>Robert F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferron</foaf:surname>
+                        <foaf:givenName>John M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hess</foaf:surname>
+                        <foaf:givenName>Melinda R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hogarty</foaf:surname>
+                        <foaf:givenName>Kristine Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kromrey</foaf:surname>
+                        <foaf:givenName>Jeffrey D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lang</foaf:surname>
+                        <foaf:givenName>Thomas R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niles</foaf:surname>
+                        <foaf:givenName>John D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Reginald S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_16"/>
+        <link:link rdf:resource="#item_36"/>
+        <dc:title>Multilevel modeling: A review of methodological issues and applications</dc:title>
+        <dc:date>2009</dc:date>
+        <z:shortTitle>Multilevel modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>69–102</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/0034654308325581.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.3102/0034654308325581</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:03:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/40071161.pdf"/>
+        <dc:title>40071161.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_17">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Hierarchical linear modeling: Guide and applications</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shafto</foaf:surname>
+                        <foaf:givenName>Carissa L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adelson</foaf:surname>
+                        <foaf:givenName>Jill L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <dc:title>A random intercept regression model using HLM: Cohort analysis of a mathematics curriculum for mathematically promising students</dc:title>
+        <dc:date>2013</dc:date>
+        <z:shortTitle>A random intercept regression model using HLM</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: SAGE Los Angeles, CA</dc:description>
+        <bib:pages>167–182</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/18/n7.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://methods.sagepub.com/book/hierarchical-linear-modeling/n7.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:04:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://10.4135/9781483384450">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Hierarchical linear modeling: Guide and applications</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garson</foaf:surname>
+                        <foaf:givenName>G. David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_20"/>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>Fundamentals of hierarchical linear and multilevel modeling</dc:title>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://10.4135/9781483384450</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Sage Publications Thousand Oaks, CA</dc:description>
+        <bib:pages>3–25</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/20/Garson - 2013 - Fundamentals of hierarchical linear and multilevel.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Pedro_Joel_Rosa/post/GLMM-tutorial-in-SPSS/attachment/59d635fdc49f478072ea3abe/AS%3A273669832544257%401442259382101/download/47528_ch_1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:05:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/n1.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://methods.sagepub.com/book/hierarchical-linear-modeling/n1.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:05:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_22">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <dc:title>Technometrics</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1198/004017005000000661</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelman</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <link:link rdf:resource="#item_24"/>
+        <dc:title>Multilevel (hierarchical) modeling: What it can and cannot do</dc:title>
+        <dc:date>2006</dc:date>
+        <z:shortTitle>Multilevel (hierarchical) modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>432–435</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/Gelman - 2006 - Multilevel (hierarchical) modeling what it can an.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/25471214.pdf?casa_token=0RyLOkBHi04AAAAA:7y2YHKxKp3FBU04wG0pV7glYtX38bsNlAxNWkVQgYel75wpYU5-JpFfGq5Xt6wO5tfDNHKn91VxJhNIDHth3Jv2WTqsrhv3R2bvQCEF3IJcmvNT-MEd7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:05:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/24/004017005000000661.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1198/004017005000000661</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:05:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-119-95682-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>John Wiley &amp; Sons</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goldstein</foaf:surname>
+                        <foaf:givenName>Harvey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_37"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Mathematics / Probability &amp; Statistics / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Mathematics / Probability &amp; Statistics / Stochastic Processes</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Multilevel Statistical Models</dc:title>
+        <dcterms:abstract>Throughout the social, medical and other sciences the importance of understanding complex hierarchical data structures is well understood. Multilevel modelling is now the accepted statistical technique for handling such data and is widely available in computer software packages. A thorough understanding of these techniques is therefore important for all those working in these areas. This new edition of Multilevel Statistical Models brings these techniques together, starting from basic ideas and illustrating how more complex models are derived. Bayesian methodology using MCMC has been extended along with new material on smoothing models, multivariate responses, missing data, latent normal transformations for discrete responses, structural equation modeling and survival models. Key Features:  Provides a clear introduction and a comprehensive account of multilevel models. New methodological developments and applications are explored. Written by a leading expert in the field of multilevel methodology. Illustrated throughout with real-life examples, explaining theoretical concepts.  This book is suitable as a comprehensive text for postgraduate courses, as well as a general reference guide. Applied statisticians in the social sciences, economics, biological and medical disciplines will find this book beneficial.</dcterms:abstract>
+        <dc:date>2011-07-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: mdwt7ibSGUYC</dc:description>
+        <dc:identifier>ISBN 978-1-119-95682-2</dc:identifier>
+        <z:numPages>376</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?id=mdwt7ibSGUYC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:06:35</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/multbook1995.pdf"/>
+        <dc:title>multbook1995.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_27">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human communication research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1468-2958.2006.00281.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenName>Andrew F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_33"/>
+        <link:link rdf:resource="#item_148"/>
+        <dc:title>A primer on multilevel modeling</dc:title>
+        <dc:date>2006</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>385–410</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/4210719.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article/32/4/385/4210719?casa_token=ugJMfcI8vUAAAAAA:pCaosfeiNAyWZ5CnueehCM5DJAoqXfsK9RyMdIFXqdqvrrWLqzhGgBp_512nNw-H2mo5zxRT-dUWpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:07:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/4210719.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-abstract/32/4/385/4210719</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:07:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_148">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/148/jhumcom0385-3.pdf"/>
+        <dc:title>jhumcom0385-3.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_34">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>46</prism:volume>
+                <dc:title>Computational statistics &amp; data analysis</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1016/j.csda.2003.08.006</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maas</foaf:surname>
+                        <foaf:givenName>Cora JM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hox</foaf:surname>
+                        <foaf:givenName>Joop J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_35"/>
+        <link:link rdf:resource="#item_160"/>
+        <dc:title>The influence of violations of assumptions on multilevel parameter estimates and their standard errors</dc:title>
+        <dc:date>2004</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>427–440</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/S0167947303001816.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0167947303001816?casa_token=1jkPATmSvIwAAAAA:IUVLOIYzCYafe4DR4kNmTBJizurlJC-Nk8P7pxX_nF39GDo_ld3uxWrSAe28cMlmYhsgG034Hg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-07 01:08:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_160">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/160/1-s2.0-S0167947303001816-main.pdf"/>
+        <dc:title>1-s2.0-S0167947303001816-main.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_38">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Organizational Research Methods</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1177%2F1094428104268542</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bliese</foaf:surname>
+                        <foaf:givenName>Paul D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanges</foaf:surname>
+                        <foaf:givenName>Paul J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_39"/>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>Being both too liberal and too conservative: The perils of treating grouped data as though they were independent</dc:title>
+        <dc:date>2004</dc:date>
+        <z:shortTitle>Being both too liberal and too conservative</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Thousand Oaks, CA</dc:description>
+        <bib:pages>400–417</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_39">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/39/Bliese and Hanges - 2004 - Being both too liberal and too conservative The p.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/download/51512773/Being_Both_Too_Liberal_and_Too_Conservat20170125-32061-bkeb6f.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:11:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/1094428104268542.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.1177/1094428104268542</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:11:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_41">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12</prism:volume>
+                <dc:title>Organizational Research Methods</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1177%2F1094428107308906</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scherbaum</foaf:surname>
+                        <foaf:givenName>Charles A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferreter</foaf:surname>
+                        <foaf:givenName>Jennifer M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_51"/>
+        <link:link rdf:resource="#item_165"/>
+        <dc:title>Estimating statistical power and required sample sizes for organizational research using multilevel modeling</dc:title>
+        <dc:date>2009</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>347–367</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/51/1094428107308906.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.1177/1094428107308906</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:25:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_165">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/165/1094428107308906.pdf"/>
+        <dc:title>1094428107308906.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_42">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human Communication Research</dc:title>
+                <dc:identifier>DOI https://10.1111/j.1468-2958.2006.00292.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slater</foaf:surname>
+                        <foaf:givenName>Michael D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snyder</foaf:surname>
+                        <foaf:givenName>Leslie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenName>Andrew F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_78"/>
+        <link:link rdf:resource="#item_82"/>
+        <dc:title>Thinking and modeling at multiple levels: The potential contribution of multilevel modeling to communication theory and research</dc:title>
+        <dc:date>2006</dc:date>
+        <z:shortTitle>Thinking and modeling at multiple levels</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>375–384</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/78/Slater et al. - 2006 - Thinking and modeling at multiple levels The pote.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-pdf/32/4/375/22323462/jhumcom0375.pdf?casa_token=FsLTUXWYAPMAAAAA:9dYr5wZpG4H5v7Smw0KZJp8lkHy7JG6UVEwLYiqugYxi461OM0gG5Ndp5GmyhFK-mt6-XHU-b3OAvA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/82/4210714.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-abstract/32/4/375/4210714</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_43">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Tutorials in quantitative methods for psychology</dc:title>
+                <dc:identifier>DOI https://doi.org/10.20982/tqmp.08.1.p052</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woltman</foaf:surname>
+                        <foaf:givenName>Heather</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feldstain</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacKay</foaf:surname>
+                        <foaf:givenName>J. Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rocchi</foaf:surname>
+                        <foaf:givenName>Meredith</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_84"/>
+        <dc:title>An introduction to hierarchical linear modeling</dc:title>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>52–69</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/84/Woltman et al. - 2012 - An introduction to hierarchical linear modeling.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://modir3-3.ir/article-english/article-m2568.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>American educational Research journal</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3102/00028312032003583</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rumberger</foaf:surname>
+                        <foaf:givenName>Russell W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_86"/>
+        <link:link rdf:resource="#item_100"/>
+        <dc:title>Dropping out of middle school: A multilevel analysis of students and schools</dc:title>
+        <dc:date>1995</dc:date>
+        <z:shortTitle>Dropping out of middle school</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications</dc:description>
+        <bib:pages>583–625</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_86">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/86/Rumberger - 1995 - Dropping out of middle school A multilevel analys.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/1163325.pdf?casa_token=y9y8pZYtLEoAAAAA:SkCEDA0Gn1qDsPDU_tTe6SC7uXKvsS3yAv4tPcLzYHB6i_6jFhIEu9Sv62CqGov2LMQNmJtKN9WYJu31jTbOdER6a4rev0x1ulZQu_LlldAbV1_wuU5g</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_100">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/100/00028312032003583.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.3102/00028312032003583</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_45">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>95</prism:volume>
+                <dc:title>The Journal of Educational Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/00220670209596602</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkins</foaf:surname>
+                        <foaf:givenName>Jesse LM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_105"/>
+        <link:link rdf:resource="#item_109"/>
+        <dc:title>Predicting student growth in mathematical content knowledge</dc:title>
+        <dc:date>2002</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>288–298</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/105/Wilkins and Ma - 2002 - Predicting student growth in mathematical content .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/27542391.pdf?casa_token=qIfQcEU-5FIAAAAA:y4hrf41yW1HHZvQrtVoIItfA4Nh9ctnOAdQBFZr595ucJu76ZBgu7se8nm1KwLi0YhP7_6SeILDolh_ITxsDL3jqWQpxE6PrD-A-CrMrlR6g5D8vW2BU</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/109/00220670209596602.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/00220670209596602</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_46">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <dc:title>Journal of school psychology</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1016/j.jsp.2009.09.002</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peugh</foaf:surname>
+                        <foaf:givenName>James L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_113"/>
+        <link:link rdf:resource="#item_163"/>
+        <dc:title>A practical guide to multilevel modeling</dc:title>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>85–112</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_113">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/113/S0022440509000545.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0022440509000545?casa_token=HjkaMhYOl0QAAAAA:V56APm7-8NKs_M_MIVi-CK-sOhL9SeBdCTLMmLqyMy-pRhKjMitumPKGOqkjyLfDoiT8rQfxMg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_163">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/163/1-s2.0-S0022440509000545-main-2.pdf"/>
+        <dc:title>1-s2.0-S0022440509000545-main-2.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_47">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human Communication Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1468-2958.2006.00285.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reid</foaf:surname>
+                        <foaf:givenName>Scott A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ng</foaf:surname>
+                        <foaf:givenName>Sik Hung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_117"/>
+        <link:link rdf:resource="#item_122"/>
+        <dc:title>The dynamics of intragroup differentiation in an intergroup social context</dc:title>
+        <dc:date>2006</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>504–525</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_117">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/117/Reid and Ng - 2006 - The dynamics of intragroup differentiation in an i.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-pdf/32/4/504/22323752/jhumcom0504.pdf?casa_token=xzHZk-HGS6sAAAAA:ilYCFeoqnFsH3mC2bDLboQ8i1KsDBRp_1HZ-dhuJp5WygBDRuHIiofFLkBm72Zi5a05XmBnazvEnPw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/4210794.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article/32/4/504/4210794?login=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_48">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>sage</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raudenbush</foaf:surname>
+                        <foaf:givenName>Stephen W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bryk</foaf:surname>
+                        <foaf:givenName>Anthony S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <link:link rdf:resource="#item_164"/>
+        <dc:title>Hierarchical linear models: Applications and data analysis methods</dc:title>
+        <dc:date>2002</dc:date>
+        <z:shortTitle>Hierarchical linear models</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <prism:volume>1</prism:volume>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/128/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=uyCV0CNGDLQC&amp;oi=fnd&amp;pg=PR17&amp;ots=qC2FQpZ6SJ&amp;sig=xxR8SmwLHxZn5qpVlVB52S_3nCw#v=onepage&amp;q&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_164">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/164/(Advanced Quantitative Techniques in the Social Sciences 1) Stephen W. Raudenbush, Anthony S. Bryk-Hierarchical Linear Models_ Applications and Data Analysis Methods-SAGE Publica.pdf"/>
+        <dc:title>(Advanced Quantitative Techniques in the Social Sciences 1) Stephen W. Raudenbush, Anthony S. Bryk-Hierarchical Linear Models_ Applications and Data Analysis Methods-SAGE Publica.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_49">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human Communication Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1468-2958.2006.00284.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Theiss</foaf:surname>
+                        <foaf:givenName>Jennifer A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Solomon</foaf:surname>
+                        <foaf:givenName>Denise Haunani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_146"/>
+        <link:link rdf:resource="#item_167"/>
+        <dc:title>Coupling longitudinal data and multilevel modeling to examine the antecedents and consequences of jealousy experiences in romantic relationships: A test of the relational turbulence model</dc:title>
+        <dc:date>2006</dc:date>
+        <z:shortTitle>Coupling longitudinal data and multilevel modeling to examine the antecedents and consequences of jealousy experiences in romantic relationships</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>469–503</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_146">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/146/4210761.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article/32/4/469/4210761?casa_token=xh6hMBQ1yoQAAAAA:BHD6oBeJ-nR4dOj9eCk8L_jrU-tVGTe-Y94MotOf3qa4EczsBZgm8WiOLGDjGEfhbhli1ijivxmF0Q</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:31:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_167">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/167/jhumcom0469-2.pdf"/>
+        <dc:title>jhumcom0469-2.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://books.google.com/books?hl=en&amp;lr=&amp;id=N1BQvcomDdQC&amp;oi=fnd&amp;pg=PP2&amp;dq=Multilevel+analysis:+An+introduction+to+basic+and+advanced+multilevel+modeling&amp;ots=Ai1mNZABrE&amp;sig=wC6Rw3okCGmfxylalpDCzZLppG8#v=onepage&amp;q=Multilevel%20analysis%3A%20An%20introduction%20to%20basic%20and%20advanced%20multilevel%20modeling&amp;f=false">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Sage</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snijders</foaf:surname>
+                        <foaf:givenName>Tom AB</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bosker</foaf:surname>
+                        <foaf:givenName>Roel J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_168"/>
+        <dc:title>Multilevel analysis: An introduction to basic and advanced multilevel modeling</dc:title>
+        <dc:date>2011</dc:date>
+        <z:shortTitle>Multilevel analysis</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=N1BQvcomDdQC&amp;oi=fnd&amp;pg=PP2&amp;dq=Multilevel+analysis:+An+introduction+to+basic+and+advanced+multilevel+modeling&amp;ots=Ai1mNZABrE&amp;sig=wC6Rw3okCGmfxylalpDCzZLppG8#v=onepage&amp;q=Multilevel%20analysis%3A%20An%20introduction%20to%20basic%20and%20advanced%20multilevel%20modeling&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_168">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Book</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.google.com/books/edition/Multilevel_Analysis/N1BQvcomDdQC?hl=en&amp;gbpv=1&amp;dq=multilevel+analysis+%2B+snijders&amp;pg=PP2&amp;printsec=frontcover</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-14 00:12:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_53">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Social and Personality Psychology Compass</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1751-9004.2007.00059.x</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nezlek</foaf:surname>
+                        <foaf:givenName>John B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <link:link rdf:resource="#item_64"/>
+        <dc:title>An introduction to multilevel modeling for social and personality psychology</dc:title>
+        <dc:date>2008</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Wiley Online Library</dc:description>
+        <bib:pages>842–860</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/Nezlek - 2008 - An introduction to multilevel modeling for social .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://jbnezl.people.wm.edu/Reprints/2008-Compass-Multilevel.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/64/j.1751-9004.2007.00059.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00059.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_54">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>55</prism:volume>
+                <dc:title>Research in Higher Education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1007/s11162-013-9306-7</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niehaus</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campbell</foaf:surname>
+                        <foaf:givenName>Corbin M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inkelas</foaf:surname>
+                        <foaf:givenName>Karen Kurotsuchi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_66"/>
+        <dc:title>HLM behind the curtain: Unveiling decisions behind the use and interpretation of HLM in higher education research</dc:title>
+        <dc:date>2014</dc:date>
+        <z:shortTitle>HLM behind the curtain</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Springer</dc:description>
+        <bib:pages>101–122</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/Niehaus et al. - 2014 - HLM behind the curtain Unveiling decisions behind.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1040&amp;context=cehsedadfacpub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/66/10.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007%2Fs11162-013-9306-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_55">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human Communication Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1468-2958.2006.00283.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Myers</foaf:surname>
+                        <foaf:givenName>Karen Kroman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McPhee</foaf:surname>
+                        <foaf:givenName>Robert D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_67"/>
+        <link:link rdf:resource="#item_80"/>
+        <dc:title>Influences on member assimilation in workgroups in high-reliability organizations: A multilevel analysis</dc:title>
+        <dc:date>2006</dc:date>
+        <z:shortTitle>Influences on member assimilation in workgroups in high-reliability organizations</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>440–468</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/67/Myers and McPhee - 2006 - Influences on member assimilation in workgroups in.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-pdf/32/4/440/22323655/jhumcom0440.pdf?casa_token=HbSQslIVHd8AAAAA:yq94MnbOyBD5dlZTPZoKDl3pFAEKkjGMlm58pwLqZMixT1AER3unR5VyULBv5t7C73y4KkcsThVtLw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/80/4210743.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-abstract/32/4/440/4210743</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_56">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>Multivariate Behavioral Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/00273171.2017.1344538</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McNeish</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_81"/>
+        <link:link rdf:resource="#item_97"/>
+        <dc:title>Small sample methods for multilevel modeling: A colloquial elucidation of REML and the Kenward-Roger correction</dc:title>
+        <dc:date>2017</dc:date>
+        <z:shortTitle>Small sample methods for multilevel modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>661–670</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/81/McNeish - 2017 - Small sample methods for multilevel modeling A co.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Daniel_Mcneish/publication/317570318_Small_Sample_Methods_for_Multilevel_Modeling_A_Colloquial_Elucidation_of_REML_and_the_Kenward-Roger_Correction/links/5bca408692851cae21b43163/Small-Sample-Methods-for-Multilevel-Modeling-A-Colloquial-Elucidation-of-REML-and-the-Kenward-Roger-Correction.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_97">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/97/00273171.2017.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/00273171.2017.1344538</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_57">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Methodology: European Journal of Research Methods for the Behavioral and Social Sciences</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1027/1614-2241.1.3.86</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maas</foaf:surname>
+                        <foaf:givenName>Cora JM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hox</foaf:surname>
+                        <foaf:givenName>Joop J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_99"/>
+        <link:link rdf:resource="#item_106"/>
+        <dc:title>Sufficient sample sizes for multilevel modeling.</dc:title>
+        <dc:date>2005</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Hogrefe &amp; Huber Publishers</dc:description>
+        <bib:pages>86</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Maas and Hox - 2005 - Sufficient sample sizes for multilevel modeling..pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dspace.library.uu.nl/bitstream/handle/1874/23635/hox_05_sufficient%20sample%20sizes.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/106/2005-10055-001.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://psycnet.apa.org/record/2005-10055-001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_58">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>97</prism:volume>
+                <dc:title>Journal of applied psychology</dc:title>
+                <dc:identifier>DOI https://doi.10.1037/a0028380</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathieu</foaf:surname>
+                        <foaf:givenName>John E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aguinis</foaf:surname>
+                        <foaf:givenName>Herman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Culpepper</foaf:surname>
+                        <foaf:givenName>Steven A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Gilad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_112"/>
+        <link:link rdf:resource="#item_161"/>
+        <dc:title>Understanding and estimating the power to detect cross-level interaction effects in multilevel modeling.</dc:title>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: American Psychological Association</dc:description>
+        <bib:pages>951</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_112">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/112/2012-12670-001.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://psycnet.apa.org/record/2012-12670-001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_161">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/161/JAP2012.pdf"/>
+        <dc:title>JAP2012.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_59">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Frontiers in psychology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCoach</foaf:surname>
+                        <foaf:givenName>D. Betsy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaniskan</foaf:surname>
+                        <foaf:givenName>Burcu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_121"/>
+        <link:link rdf:resource="#item_162"/>
+        <dc:title>Using time-varying covariates in multilevel growth models</dc:title>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Frontiers</dc:description>
+        <bib:pages>17</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/121/full.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpsyg.2010.00017/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_162">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/162/McCoach Kaniskan (2010) Time varying covariates multilevel growth models.pdf"/>
+        <dc:title>McCoach Kaniskan (2010) Time varying covariates multilevel growth models.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_60">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>54</prism:volume>
+                <dc:title>Gifted Child Quarterly</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1177%2F0016986210363076</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCoach</foaf:surname>
+                        <foaf:givenName>D. Betsy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adelson</foaf:surname>
+                        <foaf:givenName>Jill L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_125"/>
+        <link:link rdf:resource="#item_129"/>
+        <dc:title>Dealing with dependence (Part I): Understanding the effects of clustered data</dc:title>
+        <dc:date>2010</dc:date>
+        <z:shortTitle>Dealing with dependence (Part I)</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>152–155</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_125">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/125/McCoach and Adelson - 2010 - Dealing with dependence (Part I) Understanding th.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.iapsych.com/articles/mccoach2010a.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/129/0016986210363076.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.1177/0016986210363076</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_61">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IAP</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Connell</foaf:surname>
+                        <foaf:givenName>Ann A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCoach</foaf:surname>
+                        <foaf:givenName>D. Betsy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_132"/>
+        <dc:title>Multilevel modeling of educational data</dc:title>
+        <dc:date>2008</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/132/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=GfonDwAAQBAJ&amp;oi=fnd&amp;pg=PR1&amp;ots=bL-MKSyhNk&amp;sig=-dIvy5lE2cq8Aqtk2yzCGideyCE#v=onepage&amp;q&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_68">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Canadian Journal of Education/Revue canadienne de l'education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.2307/1585867</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klinger</foaf:surname>
+                        <foaf:givenName>Don A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <link:link rdf:resource="#item_83"/>
+        <dc:title>Hierarchical linear modelling of student and school effects on academic achievement</dc:title>
+        <dc:date>2000</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: JSTOR</dc:description>
+        <bib:pages>41–55</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Ma and Klinger - 2000 - Hierarchical linear modelling of student and schoo.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/1585867.pdf?casa_token=YmYJrcyWme0AAAAA:2aBWa2Hr3nwAkgvtkEH9yEv19nnYwm7Lkp8kY5WPR4nwS-92oRPUm8gaGVex89bGMIX_3V6r245_qfCq5XLrHjChjEA3Ihpy5B1L5za0AhybNUCpOJFi</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/83/1585867.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/1585867?casa_token=CtY1vYVOFxkAAAAA:vV8FimOZjzO8O5nHG9VgAiJsVd_sa3VrldgBtOrrQJNXWsVuT_GVEJi7xcAEhXX2JiUhD04AawZ7GyJY8nAjzkqjHCOy6jp-h-Spy6pkJkqftmXTNyFa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_69">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>38</prism:volume>
+                <dc:title>Journal for Research in Mathematics Education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.2307/30034867</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkins</foaf:surname>
+                        <foaf:givenName>Jesse LM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_85"/>
+        <link:link rdf:resource="#item_104"/>
+        <dc:title>Mathematics coursework regulates growth in mathematics achievement</dc:title>
+        <dc:date>2007</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: National Council of Teachers of Mathematics</dc:description>
+        <bib:pages>230–257</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/85/Ma and Wilkins - 2007 - Mathematics coursework regulates growth in mathema.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/30034867.pdf?casa_token=gZ-yGCibZ5sAAAAA:QTzsduejqMOWv8vwyimO6Db6QZxxbxUyktj7ltByTPjvpc-YOGlXijQuaFdmOGbjq-T4v9N9x_JoThLVXZNZi-uoJ2TM1GziQp_th9OYCvpMyuNZm_79</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:26:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/104/article-p230.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.nctm.org/view/journals/jrme/38/3/article-p230.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_70">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <dc:title>Educational Evaluation and Policy Analysis</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3102/01623737019002099</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Valerie E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Croninger</foaf:surname>
+                        <foaf:givenName>Robert G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Julia B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_108"/>
+        <link:link rdf:resource="#item_116"/>
+        <dc:title>Course-taking, equity, and mathematics learning: Testing the constrained curriculum hypothesis in US secondary schools</dc:title>
+        <dc:date>1997</dc:date>
+        <z:shortTitle>Course-taking, equity, and mathematics learning</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>99–121</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_108">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/108/Lee et al. - 1997 - Course-taking, equity, and mathematics learning T.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdf/1164205.pdf?casa_token=5P2zeSv0uvMAAAAA:3G5PrNBz-vKGR-K-6oxDooY_swXdyqN2g2NOXqFWV5BdM9Rl0tFscfB1NY-SMUsJj1MPceFYjji7tDvBUo2N8kMD-FQ56qmKDuIoUM_z0f9F47Ojr9GW</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_116">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/116/01623737019002099.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.3102/01623737019002099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_71">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>111</prism:volume>
+                <dc:title>Teachers College Record</dc:title>
+                <prism:number>9</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_119"/>
+        <link:link rdf:resource="#item_159"/>
+        <dc:title>Understanding the relationship between mathematics and science coursework patterns</dc:title>
+        <dc:date>2009</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>2101–2126</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_119">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/119/Content.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tcrecord.org/Content.asp?ContentId=15382</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_159">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/159/Ma (2009) Understanding the Relationship Between Mathematics and Science Coursework Patterns.pdf"/>
+        <dc:title>Ma (2009) Understanding the Relationship Between Mathematics and Science Coursework Patterns.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_72">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>83</prism:volume>
+                <dc:title>The Journal of Experimental Education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/00220973.2014.907229</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lai</foaf:surname>
+                        <foaf:givenName>Mark HC</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kwok</foaf:surname>
+                        <foaf:givenName>Oi-man</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_124"/>
+        <link:link rdf:resource="#item_156"/>
+        <dc:title>Examining the rule of thumb of not using multilevel modeling: The “design effect smaller than two” rule</dc:title>
+        <dc:date>2015</dc:date>
+        <z:shortTitle>Examining the rule of thumb of not using multilevel modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>423–438</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/00220973.2014.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/00220973.2014.907229</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_156">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/156/Examining the Rule of Thumb of Not Using Multilevel Modeling The Design Effect Smaller Than Two Rule.pdf"/>
+        <dc:title>Examining the Rule of Thumb of Not Using Multilevel Modeling The Design Effect Smaller Than Two Rule.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_73">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>31</prism:volume>
+                <dc:title>Journal of Family Psychology</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1037/fam0000290</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ledermann</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kenny</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_127"/>
+        <link:link rdf:resource="#item_152"/>
+        <dc:title>Analyzing dyadic data with multilevel modeling versus structural equation modeling: A tale of two methods.</dc:title>
+        <dc:date>2017</dc:date>
+        <z:shortTitle>Analyzing dyadic data with multilevel modeling versus structural equation modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: American Psychological Association</dc:description>
+        <bib:pages>442</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_127">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/127/2017-05295-001.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://psycnet.apa.org/record/2017-05295-001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_152">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/152/Analyzing Dyadic Data With Multilevel Modeling Versus Structural Equation Modeling_A Tale of Two Methods.pdf"/>
+        <dc:title>Analyzing Dyadic Data With Multilevel Modeling Versus Structural Equation Modeling_A Tale of Two Methods.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_74">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Multilevel modeling</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luke</foaf:surname>
+                        <foaf:givenName>Douglas A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_131"/>
+        <dc:title>Basic multilevel modeling</dc:title>
+        <dc:date>2004</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_131">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/131/n2.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://methods.sagepub.com/book/multilevel-modeling/n2.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_75">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <dc:title>Contemporary Educational Psychology</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1016/j.cedpsych.2008.12.001</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lüdtke</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robitzsch</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trautwein</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kunter</foaf:surname>
+                        <foaf:givenName>Mareike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_134"/>
+        <link:link rdf:resource="#item_157"/>
+        <dc:title>Assessing the impact of learning environments: How to use student ratings of classroom or school characteristics in multilevel modeling</dc:title>
+        <dc:date>2009</dc:date>
+        <z:shortTitle>Assessing the impact of learning environments</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>120–131</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/134/S0361476X08000660.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0361476X08000660?casa_token=QQVWzh5zO8wAAAAA:zXvDEOrrtqs1JxqNqIRWTTLHWcAxzg9PhxSXIKDcTLFQnkgk6o7UdEiK5AKoAhX42FfFm71KCw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_157">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/157/1-s2.0-S0361476X08000660-main.pdf"/>
+        <dc:title>1-s2.0-S0361476X08000660-main.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_76">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Educational Review</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/00131910600796876</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_136"/>
+        <link:link rdf:resource="#item_158"/>
+        <dc:title>Assessing school effects on dental hygiene and nutrition behaviors of Canadian adolescents</dc:title>
+        <dc:date>2007</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>37–54</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_136">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/136/00131910600796876.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/00131910600796876</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_158">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/158/Ma (2007) Assessing school effects on dental hygiene and nutrition behaviors of Canadian adolescents.pdf"/>
+        <dc:title>Ma (2007) Assessing school effects on dental hygiene and nutrition behaviors of Canadian adolescents.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_77">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>Alberta journal of educational research</dc:title>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_141"/>
+        <link:link rdf:resource="#item_143"/>
+        <dc:title>Gender differences in growth in mathematical skills during secondary grades: A growth model analysis</dc:title>
+        <dc:date>1999</dc:date>
+        <z:shortTitle>Gender differences in growth in mathematical skills during secondary grades</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_141">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/141/Ma - 1999 - Gender differences in growth in mathematical skill.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journalhosting.ucalgary.ca/index.php/ajer/article/view/54714/41771</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_143">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/143/54714.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journalhosting.ucalgary.ca/index.php/ajer/article/view/54714</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_87">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Multivariate behavioral research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1207/S15327906MBR3602_06</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krull</foaf:surname>
+                        <foaf:givenName>Jennifer L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacKinnon</foaf:surname>
+                        <foaf:givenName>David P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_98"/>
+        <link:link rdf:resource="#item_107"/>
+        <dc:title>Multilevel modeling of individual and group level mediated effects</dc:title>
+        <dc:date>2001</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>249–277</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_98">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/98/Krull and MacKinnon - 2001 - Multilevel modeling of individual and group level .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/download/40611640/Krull___MacKinnon_2001.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_107">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/107/S15327906MBR3602_06.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1207/S15327906MBR3602_06</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:27:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_88">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Communication Methods and Measures</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/19312450802310466</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Hee Sun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_110"/>
+        <dc:title>Centering in hierarchical linear modeling</dc:title>
+        <dc:date>2008</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>227–259</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/110/19312450802310466.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/19312450802310466</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_89">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>The Reviewer’s Guide to Quantitative Methods in the Social Sciences</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCoach</foaf:surname>
+                        <foaf:givenName>D. Betsy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hancock</foaf:surname>
+                        <foaf:givenName>Gregory R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mueller</foaf:surname>
+                        <foaf:givenName>Ralph R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_115"/>
+        <link:link rdf:resource="#item_118"/>
+        <dc:title>Hierarchical linear modeling</dc:title>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>123-140</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_115">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/115/McCoach - 2010 - Hierarchical linear modeling.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ndl.ethernet.edu.et/bitstream/123456789/25490/1/6.pdf.pdf#page=140</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=O3GMAgAAQBAJ&amp;oi=fnd&amp;pg=PA123&amp;ots=qWv6V24VgS&amp;sig=pafs5xaBn_UUWFY2iIOUZSCAf-k#v=onepage&amp;q&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_90">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Human Communication Research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1111/j.1468-2958.2006.00282.x</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Yong-Chan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ball-Rokeach</foaf:surname>
+                        <foaf:givenName>Sandra J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_123"/>
+        <link:link rdf:resource="#item_130"/>
+        <link:link rdf:resource="#item_154"/>
+        <dc:title>Community storytelling network, neighborhood context, and civic engagement: A multilevel approach</dc:title>
+        <dc:date>2006</dc:date>
+        <z:shortTitle>Community storytelling network, neighborhood context, and civic engagement</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Oxford University Press Oxford, UK</dc:description>
+        <bib:pages>411–439</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_123">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/123/4210724.html"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article/32/4/411/4210724?casa_token=54Oe_2oAUMAAAAAA:iF9-e1ZobZI_AJDc0ChH2Bbx1vlbolIohzmyMXyn5j4CLddL6dQPOUIKzOfJqvlXr9fvY4qW8KymBw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_130">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/130/4210724.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/hcr/article-abstract/32/4/411/4210724</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_154">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/154/jhumcom0411.pdf"/>
+        <dc:title>jhumcom0411.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_91">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Sage</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreft</foaf:surname>
+                        <foaf:givenName>Ita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Leeuw</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_133"/>
+        <dc:title>Introducing multilevel modeling</dc:title>
+        <dc:date>1998</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_133">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/133/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=tu2XjCN544YC&amp;oi=fnd&amp;pg=PR9&amp;ots=ECB_1-CPk0&amp;sig=2tlIjMvUrSSFbT8PG-kT54iqPb4#v=onepage&amp;q&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_92">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Multivariate behavioral research</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1207/s15327906mbr3001_1</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreft</foaf:surname>
+                        <foaf:givenName>Ita GG</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Leeuw</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aiken</foaf:surname>
+                        <foaf:givenName>Leona S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_135"/>
+        <link:link rdf:resource="#item_137"/>
+        <link:link rdf:resource="#item_155"/>
+        <dc:title>The effect of different forms of centering in hierarchical linear models</dc:title>
+        <dc:date>1995</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>1–21</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_135">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/135/Kreft et al. - 1995 - The effect of different forms of centering in hier.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://escholarship.org/content/qt98x5p10r/qt98x5p10r.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_137">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/137/s15327906mbr3001_1.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1207/s15327906mbr3001_1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_155">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/155/kreft_deleeuw_aiken_A_95.pdf"/>
+        <dc:title>kreft_deleeuw_aiken_A_95.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_93">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>School Psychology Quarterly</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1037/spq0000272</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Francis L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_138"/>
+        <link:link rdf:resource="#item_139"/>
+        <link:link rdf:resource="#item_151"/>
+        <dc:title>Multilevel modeling myths</dc:title>
+        <dc:date>2018</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Educational Publishing Foundation</dc:description>
+        <bib:pages>492</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_138">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/138/Huang - 2018 - Multilevel modeling myths..pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://web.missouri.edu/~huangf/data/pubdata/SPQ_Myths/05%20Multilevel%20myths_complete.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_139">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/139/2018-36388-001.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://psycnet.apa.org/record/2018-36388-001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_151">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/151/application-pdf.pdf"/>
+        <dc:title>application-pdf.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_94">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Handbook of advanced multilevel analysis</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kenny</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kashy</foaf:surname>
+                        <foaf:givenName>Deborah A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hox</foaf:surname>
+                        <foaf:givenName>Joop</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roberts</foaf:surname>
+                        <foaf:givenName>Kyle J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_140"/>
+        <link:link rdf:resource="#item_153"/>
+        <dc:title>Dyadic data analysis using multilevel modeling</dc:title>
+        <dc:date>2011</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>335–370</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_140">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/140/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=JlhySkysflUC&amp;oi=fnd&amp;pg=PA335&amp;ots=vTFeH2feva&amp;sig=Cu-VnWaIj8nEJmog_2lduZnCaFE#v=onepage&amp;q&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_153">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/153/Joop Hox, J. Kyle Roberts Handbook of Advanced Multilevel Analysis European Association of Methodology Series.pdf"/>
+        <dc:title>Joop Hox, J. Kyle Roberts Handbook of Advanced Multilevel Analysis European Association of Methodology Series.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_95">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>Journal of management</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofmann</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_142"/>
+        <link:link rdf:resource="#item_149"/>
+        <dc:title>An overview of the logic and rationale of hierarchical linear models</dc:title>
+        <dc:date>1997</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>723–744</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/142/S014920639790026X.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S014920639790026X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_149">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/149/014920639702300602.pdf"/>
+        <dc:title>014920639702300602.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_96">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>24</prism:volume>
+                <dc:title>Journal of Management</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1177/014920639802400504</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofmann</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gavin</foaf:surname>
+                        <foaf:givenName>Mark B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_144"/>
+        <link:link rdf:resource="#item_145"/>
+        <dc:title>Centering decisions in hierarchical linear models: Implications for research in organizations</dc:title>
+        <dc:date>1998</dc:date>
+        <z:shortTitle>Centering decisions in hierarchical linear models</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Sage Publications Sage CA: Thousand Oaks, CA</dc:description>
+        <bib:pages>623–641</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/144/Hofmann and Gavin - 1998 - Centering decisions in hierarchical linear models.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Mark_Gavin2/publication/289963637_Centering_Decisions_in_Hierarchical_Linear_Models_Implications_for_Research_in_Organizations/links/5696da1008ae1c427903e8f3.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_145">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/145/014920639802400504.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/abs/10.1177/014920639802400504</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:30:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_101">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>84</prism:volume>
+                <dc:title>The Journal of Experimental Education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/00220973.2014.952397</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Francis L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_111"/>
+        <link:link rdf:resource="#item_150"/>
+        <dc:title>Alternatives to multilevel modeling for the analysis of clustered data</dc:title>
+        <dc:date>2016</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>175–196</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_111">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/111/00220973.2014.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/00220973.2014.952397</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:28:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_150">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/150/Alternatives to Multilevel Modeling for the Analysis of Clustered Data.pdf"/>
+        <dc:title>Alternatives to Multilevel Modeling for the Analysis of Clustered Data.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_103">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Communication Education</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1080/03634523.2021.1903521</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frey</foaf:surname>
+                        <foaf:givenName>T. Kody</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lane</foaf:surname>
+                        <foaf:givenName>Derek R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_126"/>
+        <link:link rdf:resource="#item_147"/>
+        <dc:title>CAT in the classroom: A multilevel analysis of students’ experiences with instructor nonaccommodation</dc:title>
+        <dc:date>2021</dc:date>
+        <z:shortTitle>CAT in the classroom</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>1–24</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/126/03634523.2021.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/03634523.2021.1903521</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-13 23:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_147">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/147/CAT in the classroom a multilevel analysis of students experiences with instructor nonaccommodation-3.pdf"/>
+        <dc:title>CAT in the classroom a multilevel analysis of students experiences with instructor nonaccommodation-3.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_169">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Classification, data analysis, and data highways</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hox</foaf:surname>
+                        <foaf:givenName>Joop</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_170"/>
+        <link:link rdf:resource="#item_171"/>
+        <dc:title>Multilevel modeling: When and why</dc:title>
+        <dc:date>1998</dc:date>
+        <z:shortTitle>Multilevel modeling</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <bib:pages>147–154</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_170">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/170/Hox - 1998 - Multilevel modeling When and why.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dspace.library.uu.nl/bitstream/handle/1874/23748/hox_98_multilevel+modeling+when+and+why.pdf?sequence=3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-14 00:14:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_171">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/171/978-3-642-72087-1_17.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/chapter/10.1007/978-3-642-72087-1_17</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-05-14 00:14:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://doi.org/10.4324/9780429273872-18">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Small sample size solutions: A guide for applied researchers and practitioners</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hox</foaf:surname>
+                        <foaf:givenName>Joop</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McNeish</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van de Schoot</foaf:surname>
+                        <foaf:givenName>Rens</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miocević</foaf:surname>
+                        <foaf:givenName>Milica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_179"/>
+        <dc:title>Small samples in multilevel modeling</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.4324/9780429273872-18</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>215-225</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_179">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/179/Small Sample Solutions.pdf"/>
+        <dc:title>Small Sample Solutions.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>MLM</dc:title>
+        <dcterms:hasPart rdf:resource="#item_6"/>
+        <dcterms:hasPart rdf:resource="#item_11"/>
+        <dcterms:hasPart rdf:resource="#item_15"/>
+        <dcterms:hasPart rdf:resource="https://10.4135/9781483384450"/>
+        <dcterms:hasPart rdf:resource="#item_22"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-119-95682-2"/>
+        <dcterms:hasPart rdf:resource="#item_27"/>
+        <dcterms:hasPart rdf:resource="#item_34"/>
+        <dcterms:hasPart rdf:resource="#item_38"/>
+        <dcterms:hasPart rdf:resource="#item_41"/>
+        <dcterms:hasPart rdf:resource="#item_42"/>
+        <dcterms:hasPart rdf:resource="#item_43"/>
+        <dcterms:hasPart rdf:resource="#item_44"/>
+        <dcterms:hasPart rdf:resource="#item_45"/>
+        <dcterms:hasPart rdf:resource="#item_46"/>
+        <dcterms:hasPart rdf:resource="#item_47"/>
+        <dcterms:hasPart rdf:resource="#item_48"/>
+        <dcterms:hasPart rdf:resource="#item_49"/>
+        <dcterms:hasPart rdf:resource="https://books.google.com/books?hl=en&amp;lr=&amp;id=N1BQvcomDdQC&amp;oi=fnd&amp;pg=PP2&amp;dq=Multilevel+analysis:+An+introduction+to+basic+and+advanced+multilevel+modeling&amp;ots=Ai1mNZABrE&amp;sig=wC6Rw3okCGmfxylalpDCzZLppG8#v=onepage&amp;q=Multilevel%20analysis%3A%20An%20introduction%20to%20basic%20and%20advanced%20multilevel%20modeling&amp;f=false"/>
+        <dcterms:hasPart rdf:resource="#item_53"/>
+        <dcterms:hasPart rdf:resource="#item_54"/>
+        <dcterms:hasPart rdf:resource="#item_55"/>
+        <dcterms:hasPart rdf:resource="#item_56"/>
+        <dcterms:hasPart rdf:resource="#item_57"/>
+        <dcterms:hasPart rdf:resource="#item_58"/>
+        <dcterms:hasPart rdf:resource="#item_59"/>
+        <dcterms:hasPart rdf:resource="#item_60"/>
+        <dcterms:hasPart rdf:resource="#item_61"/>
+        <dcterms:hasPart rdf:resource="#item_68"/>
+        <dcterms:hasPart rdf:resource="#item_69"/>
+        <dcterms:hasPart rdf:resource="#item_70"/>
+        <dcterms:hasPart rdf:resource="#item_71"/>
+        <dcterms:hasPart rdf:resource="#item_72"/>
+        <dcterms:hasPart rdf:resource="#item_73"/>
+        <dcterms:hasPart rdf:resource="#item_74"/>
+        <dcterms:hasPart rdf:resource="#item_75"/>
+        <dcterms:hasPart rdf:resource="#item_76"/>
+        <dcterms:hasPart rdf:resource="#item_77"/>
+        <dcterms:hasPart rdf:resource="#item_87"/>
+        <dcterms:hasPart rdf:resource="#item_88"/>
+        <dcterms:hasPart rdf:resource="#item_89"/>
+        <dcterms:hasPart rdf:resource="#item_90"/>
+        <dcterms:hasPart rdf:resource="#item_91"/>
+        <dcterms:hasPart rdf:resource="#item_92"/>
+        <dcterms:hasPart rdf:resource="#item_93"/>
+        <dcterms:hasPart rdf:resource="#item_94"/>
+        <dcterms:hasPart rdf:resource="#item_95"/>
+        <dcterms:hasPart rdf:resource="#item_96"/>
+        <dcterms:hasPart rdf:resource="#item_101"/>
+        <dcterms:hasPart rdf:resource="#item_103"/>
+        <dcterms:hasPart rdf:resource="#item_169"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.4324/9780429273872-18"/>
+    </z:Collection>
+</rdf:RDF>
