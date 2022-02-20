@@ -1,0 +1,81 @@
+---
+title: "Example dashboard with static data from Google"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    theme: yeti
+---
+
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(googlesheets4)
+library(flexdashboard)
+library(plotly)
+library(pluralize)
+
+sheet_id <- "12xcBCfyOBx2DPmH-JhaJ0AAGLm1zKovPF9SRDPALWkc"
+pipeline <- read_sheet(sheet_id, sheet = "Data")
+score_lookup <- read_sheet(sheet_id, sheet = "Status/Score Lookup") %>% 
+  mutate(Status_plot = str_replace_all(Status, "; ", ";\n"),
+         Status_plot = str_replace_all(Status_plot, "Presented at ", "Presented at\n"),
+         Status_plot = str_replace_all(Status_plot, "review post", "review\npost")) %>% 
+  mutate(points = map_chr(Score, ~pluralize("point", n = .)),
+         Status_plot = paste0(Status_plot, "\n(", Score, " ", points, ")"))
+```
+
+## Row
+
+### Current projects {.value-box}
+
+```{r}
+num_projects <- nrow(pipeline)
+valueBox(num_projects, icon = "fas fa-tasks", color = "#FFDC00")
+```
+
+### Total points {.value-box}
+
+```{r}
+total_points <- sum(pipeline$Score)
+valueBox(total_points, icon = "fas fa-chart-bar", color = "#FF851B") 
+```
+
+### Average points {.value-box}
+
+```{r}
+avg_points <- mean(pipeline$Score) %>% round(2)
+valueBox(avg_points, icon = "fas fa-thermometer-half", color = "#7FDBFF") 
+```
+
+### Standard deviation of points {.value-box}
+
+```{r}
+sd_points <- sd(pipeline$Score) %>% round(2)
+valueBox(sd_points, icon = "fas fa-heartbeat", color = "#7FDBFF") 
+```
+
+## Row
+
+###
+
+```{r warning=FALSE}
+score_count <- pipeline %>% 
+  mutate(score_cat = factor(Score, 
+                            levels = c(7, 6, 5, 4, 3.5, 3, 2, 1, 0),
+                            labels = score_lookup$Status_plot)) %>% 
+  group_by(score_cat, .drop = FALSE) %>% 
+  summarize(num = n()) %>% 
+  mutate(nice_num = map_chr(num, ~pluralize("project", n = .)),
+         nice_num = paste(num, nice_num))
+plot_score_count <- ggplot(score_count, aes(x = score_cat, y = num)) +
+  geom_col(aes(text = nice_num), fill = "#0074D9") +
+  geom_hline(yintercept = 1:max(score_count$num), size = 0.25, color = "white") +
+  labs(x = NULL, y = NULL) +
+  theme_minimal(base_size = 14, base_family = "Open Sans") +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.text.y = element_blank(),
+        axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+# plot_score_count
+ggplotly(plot_score_count, tooltip = "text")
+```
